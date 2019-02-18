@@ -24,11 +24,12 @@ Flixster 1.0: Basic Required Functionality
 
 <img src='https://i.imgur.com/TJv6BKO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Recordit](http://www.recordit.co).
 
 Flixster 1.1: Bonus functionality: works on various layouts and orientations
 
 <img src='https://i.imgur.com/oKPTZE4.gif'  title='Video Walkthrough iPad' width='' alt='Video Walkthrough iPad' />
+
+GIFs created with [Recordit](http://www.recordit.co).
 
 ### Notes
 
