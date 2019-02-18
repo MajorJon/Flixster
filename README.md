@@ -21,10 +21,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 
 Flixster 1.0: Basic Required Functionality
-<img src="https://imgur.com/a/tkEFgrO" width=250><br>
+
+<img src='https://i.imgur.com/TJv6BKO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [Recordit](http://www.recordit.co).
 
 Flixster 1.1: Bonus functionality: works on various layouts and orientations
-<img src="https://imgur.com/a/QhNnZdq" width=250><br>
+
+<img src='https://i.imgur.com/oKPTZE4.gif'  title='Video Walkthrough iPad' width='' alt='Video Walkthrough iPad' />
 
 ### Notes
 
