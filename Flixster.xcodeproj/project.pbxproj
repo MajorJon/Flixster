@@ -103,7 +103,6 @@
 				B45FD2F1E7B561B68FF634DF /* Pods-FlixsterUITests.debug.xcconfig */,
 				7C8C3ED40D6505B0E805FFF7 /* Pods-FlixsterUITests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -144,8 +143,8 @@
 			children = (
 				6C697127221A44430082EB95 /* AppDelegate.swift */,
 				6C697129221A44430082EB95 /* ViewController.swift */,
-				6C69712B221A44430082EB95 /* Main.storyboard */,
 				6C69712E221A44440082EB95 /* Assets.xcassets */,
+				6C69712B221A44430082EB95 /* Main.storyboard */,
 				6C697130221A44440082EB95 /* LaunchScreen.storyboard */,
 				6C697133221A44440082EB95 /* Info.plist */,
 				6CBDE7ED221A6494003C27D4 /* MoviesViewController.swift */,
